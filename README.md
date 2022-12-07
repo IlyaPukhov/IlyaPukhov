@@ -13,7 +13,6 @@
 
 ### 👨‍💻 About me:
 
-- 👋 Hi, I’m @IlyaPukhov
 - 🧑‍ Now I am studying in YSTU
 - 🖥️ I’m beginning Java backend developer
 - 🌱 I’m currently learning HTTP.Servlets
