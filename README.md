@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm <a href="https://t.me/ilya2413" target="_blank">Ilya</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
----
-
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&width=480&lines=Software+engineering+student+from+Russia"/></a>
 </div>
@@ -21,6 +19,7 @@
 - 📫 How to reach me: <a href="mailto:dinamond2003@gmail.com">dinamond2003@gmail.com</a>
 
 ---
+&nbsp;
 
 ### :hammer_and_wrench: Languages and Tools
 <div>
@@ -33,16 +32,20 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" **alt="Git" width="60" height="60"/>
 </div>
 
+&nbsp;
 
 ### :fire: My Stats
-<div>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=IlyaPukhov&theme=dark" height="214"/></a>
-  &nbsp;
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlyaPukhov&theme=dark" height="214"/></a>
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=IlyaPukhov&theme=dark" height="200"/></a>
+  <br/>
+  <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlyaPukhov&layout=compact&theme=dark" height="200"/></a>
 </div>
 
+&nbsp;
+
 ### :bulb: My LeetCode
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=dinamond2003&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
-
-
+<div align="center">
+  <a href="https://github.com/KnlnKS/leetcode-stats"><img src="https://leetcode-stats-six.vercel.app/api?username=dinamond2003&theme=dark" align="center" height="210"/></a>
+</div>
 
