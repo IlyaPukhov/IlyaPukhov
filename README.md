@@ -38,13 +38,8 @@
 <div>
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=IlyaPukhov&theme=dark" height="214"/></a>
   &nbsp;
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlyaPukhov&layout=compact&theme=dark" height="214"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlyaPukhov&theme=dark" height="214"/></a>
 </div>
-
-&nbsp;
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IlyaPukhov&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ### :bulb: My LeetCode
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=dinamond2003&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
