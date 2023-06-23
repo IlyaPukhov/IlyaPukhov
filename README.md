@@ -9,8 +9,6 @@
   <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" style="width: 60%; height: auto;"/>
 </div>
 
-
-
 ### 👨‍💻 About me
 
 - 🧑‍ Now I am studying in YSTU
@@ -19,7 +17,6 @@
 - 📫 How to reach me: <a href="mailto:dinamond2003@gmail.com">dinamond2003@gmail.com</a>
 
 ---
-&nbsp;
 
 ### :hammer_and_wrench: Languages and Tools
 <div>
