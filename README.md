@@ -13,8 +13,10 @@
 
 - 🧑‍ Now I am studying in YSTU
 - 🖥️ I’m beginning Java backend developer
-- 🌱 I’m currently learning Hibernate
-- 📫 How to reach me: <a href="mailto:dinamond2003@gmail.com">dinamond2003@gmail.com</a>
+- 🌱 I’m currently learning Spring Boot
+
+- 📫 Mail: <a href="mailto:dinamond2003@gmail.com">dinamond2003@gmail.com</a>
+- 💬 TG: <a href="https://t.me/ilya_pukhov">@ilya_pukhov</a>
 
 ---
 
