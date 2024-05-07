@@ -9,31 +9,31 @@
   <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" style="width: 60%; height: auto;"/>
 </div>
 
-### 👨‍💻 About me
-
+## 👨‍💻 About me
 - 🧑‍ Now I am studying in YSTU
 - 🖥️ I’m beginning Java backend developer
 - 🌱 I’m currently learning Spring Boot
 
+## 🌐 Contacts:
 - 📫 Mail: <a href="mailto:dinamond2003@gmail.com">dinamond2003@gmail.com</a>
 - 💬 TG: <a href="https://t.me/ilya_pukhov">@ilya_pukhov</a>
 
 ---
 
-### :hammer_and_wrench: Languages and Tools
+## :hammer_and_wrench: Languages and Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" **alt="Git" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring Boot" alt="Spring Boot" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/hibernate/hibernate-original.svg" title="Hibernate" alt="Hibernate" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="60" height="60"/>
 </div>
 
 &nbsp;
 
-### :fire: My Stats
+## :fire: My Stats
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=IlyaPukhov&theme=dark" style="width: 60%; height: auto;"/></a>
   <br/>
@@ -43,7 +43,7 @@
 
 &nbsp;
 
-### :bulb: My LeetCode
+## :bulb: My LeetCode
 <div align="center">
   <a href="https://github.com/KnlnKS/leetcode-stats"><img src="https://leetcode-stats-six.vercel.app/api?username=dinamond2003&theme=dark" align="center" style="width: 50%; height: auto;"/></a>
 </div>
