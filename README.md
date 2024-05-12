@@ -12,7 +12,7 @@
 ## 👨‍💻 About me
 - 🧑‍ Now I am studying in YSTU
 - 🖥️ I’m beginning Java backend developer
-- 🌱 I’m currently learning Spring Boot
+- 🌱 I’m currently learning Spring Framework
 
 ## 🌐 Contacts:
 - 📫 Mail: <a href="mailto:dinamond2003@gmail.com">dinamond2003@gmail.com</a>
