@@ -35,16 +35,16 @@
 
 ## :fire: My Stats
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=IlyaPukhov&theme=dark" style="width: 60%; height: auto;"/></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=IlyaPukhov&theme=dark"/></a>
   <br/>
   <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlyaPukhov&layout=compact&theme=dark" style="width: 40%; height: auto;"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlyaPukhov&layout=compact&theme=dark"/></a>
 </div>
 
 &nbsp;
 
 ## :bulb: My LeetCode
 <div align="center">
-  <a href="https://github.com/KnlnKS/leetcode-stats"><img src="https://leetcode-stats-six.vercel.app/api?username=dinamond2003&theme=dark" align="center" style="width: 50%; height: auto;"/></a>
+  <a href="https://github.com/KnlnKS/leetcode-stats"><img src="https://leetcode-stats-six.vercel.app/api?username=dinamond2003&theme=dark" align="center"/></a>
 </div>
 
