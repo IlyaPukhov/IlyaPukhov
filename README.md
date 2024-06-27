@@ -40,11 +40,3 @@
   <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlyaPukhov&layout=compact&theme=dark"/></a>
 </div>
-
-&nbsp;
-
-## :bulb: My LeetCode
-<div align="center">
-  <a href="https://github.com/KnlnKS/leetcode-stats"><img src="https://leetcode-stats-six.vercel.app/api?username=dinamond2003&theme=dark" align="center"/></a>
-</div>
-
