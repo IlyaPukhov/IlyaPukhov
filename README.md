@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&width=480&lines=Software+engineering+student+from+Russia"/></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=480&duration=4000&pause=1000&center=true&width=480&lines=Java+Backend+Developer+from+Russia"/></a>
 </div>
 
 <div align="center">
@@ -11,8 +11,7 @@
 
 ## 👨‍💻 About me
 - 🧑‍ Now I am studying in YSTU
-- 🖥️ I’m beginning Java backend developer
-- 🌱 I’m currently learning Spring WebFlux
+- 🖥️ I’m Spring Boot Developer
 
 ## 🌐 Contacts:
 - 📫 Mail: <a href="mailto:dinamond2003@gmail.com">dinamond2003@gmail.com</a>
@@ -29,6 +28,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" title="Apache Kafka" alt="Apache Kafka" width="60" height="auto"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg" title="Grafana" alt="Grafana" width="60" height="60"/>
 </div>
 
