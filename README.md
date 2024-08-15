@@ -12,7 +12,7 @@
 ## 👨‍💻 About me
 - 🧑‍ Now I am studying in YSTU (I am 21 y.o.)
 - 🖥️ I’m Spring Boot Developer
-- 🦊 GitLab project: [https://gitlab.com/42-jokebot](https://gitlab.com/42-jokebot)
+- 🦊 GitLab project: <a href="https://gitlab.com/42-jokebot" target="_blank">https://gitlab.com/42-jokebot</a>
 
 ## 🌐 Contacts:
 - 📫 Mail: <a href="mailto:dinamond2003@gmail.com">dinamond2003@gmail.com</a>
