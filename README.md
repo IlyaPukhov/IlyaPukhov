@@ -10,7 +10,7 @@
 </div>
 
 ## 👨‍💻 About me
-- 🧑‍ Now I am studying in YSTU
+- 🧑‍ Now I am studying in YSTU (I am 21 y.o.)
 - 🖥️ I’m Spring Boot Developer
 
 ## 🌐 Contacts:
