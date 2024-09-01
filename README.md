@@ -48,9 +48,9 @@
 <p align="center">
   <a href="#">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IlyaPukhov&title_color=0366d6&icon_color=36bcf7&text_color=fefefe&bg_color=0d1117" />
-  </a><br />
+  </a><br/>
   <a href="#">
-    <img src="https://streak-stats.demolab.com?user=IlyaPukhov&ring=0366d6&background=0d1117&border=e4e2e2&stroke=36bcf7&fire=ff6f2b&currStreakNum=fefefe&sideNums=fefefe&currStreakLabel=36bcf7&sideLabels=fefefe&dates=9e9e9e" height="180" /><a />
+    <img src="https://streak-stats.demolab.com?user=IlyaPukhov&ring=0366d6&background=0d1117&border=e4e2e2&stroke=36bcf7&fire=ff6f2b&currStreakNum=fefefe&sideNums=fefefe&currStreakLabel=36bcf7&sideLabels=fefefe&dates=9e9e9e" height="180" /><a/>
   </a>
   <a href="#">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlyaPukhov&layout=compact&title_color=0366d6&icon_color=36bcf7&text_color=fefefe&bg_color=0d1117" height="180" />
