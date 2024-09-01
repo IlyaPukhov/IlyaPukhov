@@ -1,8 +1,10 @@
-<h1 align="center">Hi, I'm <a href="https://github.com/IlyaPukhov" target="_blank">Ilya</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
+<h1 align="center">
+  Hi, I'm <a href="https://github.com/IlyaPukhov" target="_blank">Ilya</a>
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" />
+</h1>
 
 <p align="center">
-  <a href="?">
+  <a href="/">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=480&duration=4000&pause=1000&center=true&width=480&lines=Java+Backend+Developer+from+Russia" />
   </a>
   <a href="#">
