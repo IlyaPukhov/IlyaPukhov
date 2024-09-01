@@ -4,26 +4,29 @@
 </h1>
 
 <p align="center">
-  <a href="#">
+  <a id="title" href="#title">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=480&duration=4000&pause=1000&center=true&width=480&lines=Java+Backend+Developer+from+Russia" />
   </a>
-  <a href="#">
+  <a id="gif" href="#gif">
     <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" style="width: 50%; height: auto;" />
   </a>
 </p>
 
 ## 👨‍💻 About me
+
 - 🧑‍ Now I am studying in YSTU (I am 21 y.o.)
 - 🖥️ I’m Spring Boot Developer
 - 🦊 GitLab project: [JokeBot](https://gitlab.com/42-jokebot)
 
 ## 🌐 Contacts:
+
 [![Telegram](https://img.shields.io/badge/telegram-229ed9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ilya_pukhov)
 [![Mail](https://img.shields.io/badge/mail-ea4335?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:dinamond2003@gmail.com)
 
 ---
 
 ## :hammer_and_wrench: Languages and Tools
+
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="auto" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring Framework" alt="Spring Framework" width="50" height="auto" />&nbsp;
@@ -44,11 +47,11 @@
 &nbsp;
 
 ## :fire: My Stats
+
 <p align="center">
-  <a href="#">
+  <a id="stats" href="#stats">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IlyaPukhov&theme=omni" />
-  </a> <br/>
-  <a href="#">
+    <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=IlyaPukhov&theme=omni" height="180" /><a />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlyaPukhov&layout=compact&theme=omni" height="180" />
   </a>
