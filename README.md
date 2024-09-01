@@ -23,6 +23,7 @@
 [![Telegram](https://img.shields.io/badge/telegram-229ed9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ilya_pukhov)
 [![Mail](https://img.shields.io/badge/mail-ea4335?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:dinamond2003@gmail.com)
 
+
 ## :hammer_and_wrench: Languages and Tools
 
 <p align="center">
@@ -41,8 +42,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="50" height="auto" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" title="Android" alt="Android" width="50" height="auto" />
 </p>
-
-&nbsp;
 
 ## :fire: My Stats
 
