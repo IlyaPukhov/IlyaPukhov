@@ -1,9 +1,13 @@
-<h1 align="center">Hi, I'm <a href="https://t.me/ilya2413" target="_blank">Ilya</a> 
+<h1 align="center">Hi, I'm <a href=https://github.com/IlyaPukhov" target="_blank">Ilya</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
 <p align="center">
-  <img align="center" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=480&duration=4000&pause=1000&center=true&width=480&lines=Java+Backend+Developer+from+Russia" />
-  <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" style="width: 50%; height: auto;" />
+  <a href="#">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=480&duration=4000&pause=1000&center=true&width=480&lines=Java+Backend+Developer+from+Russia" />
+  </a>
+  <a href="#">
+    <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" style="width: 50%; height: auto;" />
+  </a>
 </p>
 
 ## 👨‍💻 About me
@@ -39,8 +43,11 @@
 
 ## :fire: My Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IlyaPukhov&theme=aura" alt="Wakatime" /></a>
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IlyaPukhov&theme=aura" alt="Streak" height="180" />&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlyaPukhov&layout=compact&theme=aura" alt="Top languages" height="180" />
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IlyaPukhov&theme=omni" />
+  </a> <br/>
+  <a href="#">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=IlyaPukhov&theme=omni" height="180" /><a />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlyaPukhov&layout=compact&theme=omni" height="180" />
+  </a>
 </p>
