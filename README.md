@@ -23,8 +23,6 @@
 [![Telegram](https://img.shields.io/badge/telegram-229ed9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ilya_pukhov)
 [![Mail](https://img.shields.io/badge/mail-ea4335?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:dinamond2003@gmail.com)
 
----
-
 ## :hammer_and_wrench: Languages and Tools
 
 <p align="center">
