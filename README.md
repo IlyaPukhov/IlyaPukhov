@@ -46,7 +46,7 @@
 ## :fire: My Stats
 
 <p align="center">
-  <a href="#">
+  <a href="https://wakatime.com/@IlyaPukhov">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IlyaPukhov&title_color=0366d6&icon_color=6bafe6&text_color=fefefe&bg_color=0e1a23" />
   </a><br/>
   <a href="#">
