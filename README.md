@@ -16,7 +16,7 @@
 
 - 🧑‍ Now I am studying in YSTU (I am 21 y.o.)
 - 🖥️ I’m Spring Boot Developer
-- 🦊 GitLab project: [JokeBot](https://gitlab.com/42-jokebot)
+- 🦊 GitLab projects: [Ilya Pukhov](https://gitlab.com/users/IlyaPukhov/groups)
 
 ## 🌐 Contacts:
 
