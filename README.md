@@ -14,8 +14,8 @@
 
 ## 👨‍💻 About me
 
-- 🧑‍ Now I am studying in YSTU (I am 21 y.o.)
-- 🖥️ I’m Spring Boot Developer
+- 🧑‍ I am 22 y.o.
+- 🖥️ I’m Java Backend Developer
 - 🦊 GitLab projects: [Ilya Pukhov](https://gitlab.com/users/IlyaPukhov/groups)
 
 ## 🌐 Contacts:
